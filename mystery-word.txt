@@ -1,5 +1,7 @@
 //This is the file where i'll code "mystery word"
 int main(){
 
+//test to see if i've got it all
+
 	return 0
 }
